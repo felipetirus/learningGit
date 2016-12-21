@@ -1,2 +1,4 @@
 Teste git versão 3
 Add CSS
+Adicionando uma nova correção MERGE
+Mais coisa
