@@ -1,8 +1,8 @@
-Teste git vers�o 4
+Teste git versão 5
 Add CSS
 Adicionando About
 
-Adicionando uma nova corre��o MERGE
+Adicionando uma nova correção MERGE
 Mais coisa
 
 Add Navigation Adciionando
